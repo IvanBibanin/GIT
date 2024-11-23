@@ -19,3 +19,4 @@ git remote add origin + ssh ключ
 git remote -v
 # Отправить данные в удаленный репозеторий
 git push -u origin main
+
